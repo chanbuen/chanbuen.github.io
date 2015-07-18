@@ -1,0 +1,38 @@
+p { 
+	color; yellow;
+}
+body { 
+	background-color: purple;
+}
+h1 {
+	color: blue;
+}
+.media { 
+	background-color: orange;
+}
+.websites {
+	background-color: pink;
+}
+.top {
+	background: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xaf1/t31.0-8/885585_10152877163621573_7264328015885393699_o.jpg");
+	background-size: cover;
+}
+.contact {
+	background: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xaf1/t31.0-8/885585_10152877163621573_7264328015885393699_o.jpg");
+	height: 500px;
+	background-size: cover;
+}
+.contact img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+.contact img: hover {
+	opacity: 0.5;
+}
+.about {
+	background: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1962508_10152482060966573_3424983583913150001_o.jpg");
+}
+.hobbies {
+	background: url("https://scontent-dfw1-1.xx.fbcdn.net/hphotos-xpf1/t31.0-8/1962508_10152482060966573_3424983583913150001_o.jpg");
+}
